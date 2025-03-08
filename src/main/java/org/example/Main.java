@@ -37,6 +37,9 @@ public class Main {
         System.out.println(new String(s));
     }
 
+    public static void printArrayWithMessage(char[] s {
+        System.out.println(new String(s) + "we are gonna code code code :))");
+
     public static void printIntArray(int[] arr) {
         System.out.printf(Arrays.toString(arr));
     }
